@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-FgoefinderServicesApplication<fgoefinder_services>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.fgoefinder_services.fgoefinder_services.FgoefinderServicesApplication",
+            "projectName": "fgoefinder_services",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
